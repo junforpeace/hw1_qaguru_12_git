@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello, sky!");
         System.out.println("Hello, BODY!");
         System.out.println("Hello, 123BODY!");
+        System.out.println("Hello, qwerty!");
 
     }
 }
