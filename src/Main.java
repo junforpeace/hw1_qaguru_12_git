@@ -19,7 +19,6 @@ public class Main {
             c = a;
 
         return c;
-        System.out.println("Hello, 567BODY!");
 
     }
 }
